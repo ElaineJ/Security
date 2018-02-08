@@ -1,5 +1,3 @@
-Done by Elaine Cheong 1001721 & Sita Rajagopal 1001677
-
 
 For part i, run the ex1.py python file.
 For part ii, run the shift_binary.py python file
