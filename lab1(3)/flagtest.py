@@ -1,5 +1,3 @@
-#Done by: Elaine Cheong 1001721 & Sita Rajagopal 1001677
-
 
 import sys
 import argparse

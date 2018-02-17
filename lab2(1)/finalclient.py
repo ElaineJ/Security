@@ -1,4 +1,3 @@
-#Done by Elaine Cheong 1001721 and Sita Rajagopal 1001677
 
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
